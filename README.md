@@ -1,4 +1,4 @@
 # myfirstrepository
 this is my first github work
 <br>
-author- aditya singh 
+author- aditya singh (purushottamsingh)
